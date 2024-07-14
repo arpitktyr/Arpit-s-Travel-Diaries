@@ -40,8 +40,8 @@ const Home = () => {
         <div className="container py-md-5 py-4">
           <h3 className="title-style">Our Latest Adventures</h3>
           <p className="sub-title">
-            Join us for short trips and long travels. Find unforgettable moments
-            along the way.{" "}
+            Join us for short trips and long travels stories. Find unforgettable
+            moments along the way.
           </p>
           <div className="row mt-5">
             <div className="col-lg-4 col-sm-6">

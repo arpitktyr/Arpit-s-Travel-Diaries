@@ -15172,7 +15172,9 @@ p.sub-title {
   overflow: hidden;
   /* to bound the empty top space created by inner element's top margin */
   width: 100%;
-  background-color: #999;
+  /* background-color: #999; */
+  background: url(./assets/images/banner1.jpg) no-repeat center;
+  background-size: cover;
   min-height: 800px;
   display: flex;
   align-items: flex-end;
@@ -16261,7 +16263,7 @@ button.owl-next {
 
 /* footer */
 .footer-w3ls {
-  background: url(../images/footer.jpg) no-repeat center;
+  background: url(./assets/images/footer.jpg) no-repeat center;
   background-size: cover;
 }
 

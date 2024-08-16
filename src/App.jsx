@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import DoDhamUttrakhand from "./pages/blogs/DoDhamUttrakhand";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
+            <Route path="/do-dham-uttrakhand" element={<DoDhamUttrakhand />} />
           </Routes>
           <Footer />
         </div>

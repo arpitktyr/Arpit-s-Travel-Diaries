@@ -47,7 +47,7 @@ const Home = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="blog-card-single">
                 <div className="grids5-info">
-                  <a href="#blog">
+                  <a href="/do-dham-uttrakhand">
                     <img src="assets/images/uttrakhand.jpg" alt="" />
                   </a>
                   <div className="blog-info">
@@ -55,7 +55,7 @@ const Home = () => {
                       May 23, 2024 - <a href="blog-single">New</a>
                     </h5>
                     <h4>
-                      <a href="#blog">Uttrakhand: Do-Dham</a>
+                      <a href="/do-dham-uttrakhand">Uttrakhand: Do-Dham</a>
                     </h4>
                     <p>
                       It is about completing the Kedarnath and Badrinath darshan
@@ -68,7 +68,7 @@ const Home = () => {
             <div className="col-lg-4 col-sm-6 mt-sm-0 mt-4">
               <div className="blog-card-single">
                 <div className="grids5-info">
-                  <a href="#blog">
+                  <a href="/do-dham-uttrakhand">
                     <img src="assets/images/udaipur.jpg" alt="" />
                   </a>
                   <div className="blog-info">
@@ -76,7 +76,7 @@ const Home = () => {
                       Dec 31, 2023 - <a href="#">New</a>
                     </h5>
                     <h4>
-                      <a href="#blog">Udaipur</a>
+                      <a href="/do-dham-uttrakhand">Udaipur</a>
                     </h4>
                     <p>
                       4 days 5 nights travel experiences, where we cover all the
@@ -89,7 +89,7 @@ const Home = () => {
             <div className="col-lg-4 col-sm-6 mt-lg-0 mt-4">
               <div className="blog-card-single">
                 <div className="grids5-info">
-                  <a href="#blog">
+                  <a href="/do-dham-uttrakhand">
                     <img src="assets/images/jaipur.jpg" alt="" />
                   </a>
                   <div className="blog-info">
@@ -97,7 +97,7 @@ const Home = () => {
                       Feb, 2023 - <a href="blog-single">New</a>
                     </h5>
                     <h4>
-                      <a href="#blog">Jaipur</a>
+                      <a href="/do-dham-uttrakhand">Jaipur</a>
                     </h4>
                     <p>
                       3 days 4 night travel experiences, where we mainly visit

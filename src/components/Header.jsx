@@ -1,41 +1,45 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 
-import logo from "./../assets/logo_crop.svg";
+import whiteLogo from "./../assets/logo_crop.svg";
+import blackLogo from "../assets/logo_black.svg";
 
 const Header = () => {
+  const [logo, setLogo] = useState(whiteLogo);
+
   useEffect(() => {
     const toggleSwitch = document.querySelector(
       '.theme-switch input[type="checkbox"]'
     );
     const currentTheme = localStorage.getItem("theme");
+    const updateLogo = (theme) => {
+      const siteHeader = document.getElementById("site-header");
+      // Check if the site header has the 'nav-fixed' class
+      if (siteHeader && siteHeader.classList.contains("nav-fixed")) {
+        setLogo(theme === "dark" ? blackLogo : whiteLogo);
+      } else {
+        setLogo(whiteLogo);
+      }
+    };
 
     if (currentTheme) {
       document.documentElement.setAttribute("data-theme", currentTheme);
+      updateLogo(currentTheme);
+
       if (currentTheme === "dark") {
         toggleSwitch.checked = true;
       }
     }
 
     const switchTheme = (e) => {
-      if (e.target.checked) {
-        document.documentElement.setAttribute("data-theme", "dark");
-        localStorage.setItem("theme", "dark");
-      } else {
-        document.documentElement.setAttribute("data-theme", "light");
-        localStorage.setItem("theme", "light");
-      }
+      const newTheme = e.target.checked ? "dark" : "light";
+      document.documentElement.setAttribute("data-theme", newTheme);
+      localStorage.setItem("theme", newTheme);
+      updateLogo(newTheme);
     };
 
     if (toggleSwitch) {
       toggleSwitch.addEventListener("change", switchTheme, false);
     }
-
-    // // Cleanup the event listener on component unmount
-    // return () => {
-    //   if (toggleSwitch) {
-    //     toggleSwitch.removeEventListener("change", switchTheme, false);
-    //   }
-    // };
 
     const scrollFunction = () => {
       if (
@@ -129,9 +133,14 @@ const Header = () => {
       $(window).on("scroll", () => {
         const scroll = $(window).scrollTop();
         if (scroll >= 80) {
+          // console.log(currentTheme);
+          setLogo(
+            localStorage.getItem("theme") === "dark" ? whiteLogo : blackLogo
+          );
           $("#site-header").addClass("nav-fixed");
         } else {
           $("#site-header").removeClass("nav-fixed");
+          setLogo(whiteLogo);
         }
       });
 
@@ -184,7 +193,7 @@ const Header = () => {
                   title="Arpit's travel diaries"
                   style={{ width: "100%", marginRight: "10px" }}
                 />
-                Arpit's Travel Dairies
+                Arpit's Travel Diaries
               </a>
             </h1>
             <a className="navbar-brand only-for-desktop" href="./">
@@ -195,7 +204,7 @@ const Header = () => {
               /> */}
               <img
                 alt="Arpit's travel diaries logo"
-                src={logo}
+                src={whiteLogo}
                 title="Arpit's travel diaries"
                 style={{ width: "75%" }}
               />

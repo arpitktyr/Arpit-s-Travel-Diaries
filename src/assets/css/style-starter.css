@@ -14112,8 +14112,6 @@ a.text-dark:focus {
   --bg-light-blog: rgb(14 19 49);
 }
 
-
-
 .noscroll {
   overflow: hidden;
   height: 100vh;
@@ -14962,7 +14960,7 @@ button.search-btn {
 
 @media only screen and (max-width: 480px) {
   .navbar .navbar-brand {
-    font-size: 21px;
+    font-size: 20px;
   }
 
   .navbar .navbar-brand span,
@@ -15015,7 +15013,7 @@ button.search-btn {
   }
 
   .navbar .navbar-brand {
-    font-size: 24px;
+    font-size: 18px;
   }
 
   .navbar .navbar-brand img {

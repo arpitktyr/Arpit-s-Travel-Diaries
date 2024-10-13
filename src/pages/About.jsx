@@ -1,8 +1,20 @@
 import React from "react";
-
+import { Helmet } from "react-helmet";
 const Home = () => {
   return (
     <>
+      <Helmet>
+        <title>About us | Arpit's Travel Diaries</title>
+        <meta
+          name="description"
+          content=" Welcome to 'Arpit's Travel Diaries', your ultimate destination
+          for immersive travel stories and adventures! Here, I share my
+          passion for exploring new places, cultures, and experiences.
+          Each weekend, I take you on a journey through my latest travel
+          escapades, providing a detailed account of the sights, sounds,
+          and flavors I've encountered along the way."
+        />
+      </Helmet>
       <div className="inner-banner">
         <section className="w3l-breadcrumb">
           <div className="container">

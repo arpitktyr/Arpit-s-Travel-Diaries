@@ -53,3 +53,19 @@
     max-width: 100% !important;
   }
 }
+.only-for-mobile {
+  display: none !important;
+}
+
+.only-for-desktop {
+  display: block !important;
+}
+
+@media only screen and (max-width: 991px) {
+  .only-for-mobile {
+    display: block !important;
+  }
+  .only-for-desktop {
+    display: none !important;
+  }
+}

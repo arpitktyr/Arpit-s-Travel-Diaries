@@ -4650,7 +4650,7 @@ input[type="button"].btn-block {
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
-  font-size: 1.25rem;
+  font-size: 30px;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -14087,6 +14087,7 @@ a.text-dark:focus {
   --quote-text-color: #1d2c4c;
   --icon-gra-color: linear-gradient(75deg, #1c2e7b 10%, #e60264);
   --bg-light-blog: rgba(0, 0, 0, 0.03);
+  --svg-color: var(--svg-color-dark);
 }
 
 [data-theme="dark"] {
@@ -14110,6 +14111,8 @@ a.text-dark:focus {
   --icon-gra-color: #fff;
   --bg-light-blog: rgb(14 19 49);
 }
+
+
 
 .noscroll {
   overflow: hidden;
@@ -14440,7 +14443,7 @@ input:checked + .mode-container i.gg-moon {
 .navbar .navbar-brand {
   margin: 0;
   padding: 0;
-  font-size: 30px;
+  font-size: 0.6em;
   color: #fff;
   font-weight: 600;
   text-align: center;
@@ -14769,6 +14772,7 @@ button.search-btn {
     z-index: 10 !important;
     background-color: var(--bg-color);
     box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.05);
+    /* background: linear-gradient(to bottom, #ef3075, #fb8e0e); */
   }
 
   .nav-fixed .navbar-brand {
@@ -14958,7 +14962,7 @@ button.search-btn {
 
 @media only screen and (max-width: 480px) {
   .navbar .navbar-brand {
-    font-size: 28px;
+    font-size: 21px;
   }
 
   .navbar .navbar-brand span,

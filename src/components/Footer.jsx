@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./../assets/logo_crop.svg";
 
 const Footer = () => {
   return (
@@ -8,9 +9,15 @@ const Footer = () => {
           <div className="contact-center">
             <div className="footer-logo pt-2 mb-sm-5 mb-3 text-center">
               <h2>
-                <a href="index.html">
-                  <i className="fa fa-book mr-2" aria-hidden="true"></i>
-                  Arpit's Travel Dairies
+                <a href="./">
+                  {/* <i className="fa fa-book mr-2" aria-hidden="true"></i>
+                  Arpit's Travel Dairies */}
+                  <img
+                    alt="Arpit's travel diaries logo"
+                    src={logo}
+                    title="Arpit's travel diaries"
+                    style={{ width: "100%", maxWidth: "250px" }}
+                  />
                 </a>
               </h2>
               <p className="px-lg-5 mt-4 text-white">

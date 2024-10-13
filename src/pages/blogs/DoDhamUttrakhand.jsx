@@ -1,8 +1,19 @@
 import React from "react";
+import { Helmet } from "react-helmet";
 
 const DoDhamUttrakhand = () => {
   return (
     <>
+      <Helmet>
+        <title>
+          Journey to Kedarnath - A Spiritual and Scenic Adventure | Arpit's
+          Travel Diaries
+        </title>
+        <meta
+          name="description"
+          content="Experience the breathtaking trek to Kedarnath with Arpit. From the stunning landscapes to spiritual moments at the temple, join this unforgettable journey."
+        />
+      </Helmet>
       <div className="kedarnath-banner">
         <section className="w3l-breadcrumb">
           <div className="container">
@@ -755,7 +766,7 @@ const DoDhamUttrakhand = () => {
               <p className="sub-para">
                 After a while, we also went to the riverbank and sat there for
                 quite some time. We talked, listened to the sound of the flowing
-                river, and sometimes threw stones into it. Around 5:00 AM, the
+                river, and sometimes threw stones into it. Around 5:00 PM, the
                 driver asked us to get back in the van, and we finally started
                 moving again. However, there was heavy traffic on the road, so
                 the van couldn't go fast, and it was already dark. The van
@@ -1445,7 +1456,7 @@ const DoDhamUttrakhand = () => {
               <a
                 href="/assets/images/do_dham_uk/flower.jpeg"
                 data-lightbox="example-set"
-                data-title="Unknown Flower"
+                data-title="Silky Rose Flower - PC : Shubha"
               >
                 <img
                   src="/assets/images/do_dham_uk/flower.jpeg"

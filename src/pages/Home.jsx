@@ -1,4 +1,3 @@
-import React from "react";
 import { Helmet } from "react-helmet";
 
 const Home = () => {
@@ -81,14 +80,14 @@ const Home = () => {
                   </a>
                   <div className="blog-info">
                     <h5>
-                      Dec 31, 2023 - <a href="#">New</a>
+                      Dec 23, 2024 - <a href="#">New</a>
                     </h5>
                     <h4>
-                      <a href="/do-dham-uttrakhand">Udaipur</a>
+                      <a href="/do-dham-uttrakhand">KedarKantha: Winter Trek</a>
                     </h4>
                     <p>
-                      4 days 5 nights travel experiences, where we cover all the
-                      udaipur's famous places.
+                      4 days 5 nights travel unique experiences of KedarKantha
+                      Trek.
                     </p>
                   </div>
                 </div>

@@ -15,7 +15,7 @@ const Header = () => {
       const siteHeader = document.getElementById("site-header");
       // Check if the site header has the 'nav-fixed' class
       if (siteHeader && siteHeader.classList.contains("nav-fixed")) {
-        setLogo(theme === "dark" ? blackLogo : whiteLogo);
+        setLogo(theme === "dark" ? whiteLogo : blackLogo);
       } else {
         setLogo(whiteLogo);
       }

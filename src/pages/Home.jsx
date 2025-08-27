@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Helmet } from "react-helmet";
 
 const Home = () => {
@@ -75,19 +76,24 @@ const Home = () => {
             <div className="col-lg-4 col-sm-6 mt-sm-0 mt-4">
               <div className="blog-card-single">
                 <div className="grids5-info">
-                  <a href="/do-dham-uttrakhand">
-                    <img src="assets/images/udaipur.jpg" alt="" />
+                  <a href="/kedarkantha-winter-trek">
+                    <img
+                      src="assets/images/kedarkantha2.jpg"
+                      alt="Kedarkantha camps"
+                    />
                   </a>
                   <div className="blog-info">
                     <h5>
                       Dec 23, 2024 - <a href="#">New</a>
                     </h5>
                     <h4>
-                      <a href="/do-dham-uttrakhand">KedarKantha: Winter Trek</a>
+                      <a href="/kedarkantha-winter-trek">
+                        Kedarkantha: The Winter Trek
+                      </a>
                     </h4>
                     <p>
-                      4 days 5 nights travel unique experiences of KedarKantha
-                      Trek.
+                      4 days 5 nights travel unique travel experiences of
+                      KedarKantha winter trek
                     </p>
                   </div>
                 </div>

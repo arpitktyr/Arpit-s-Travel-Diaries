@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import DoDhamUttrakhand from "./pages/blogs/DoDhamUttrakhand";
 import KedarkanthaTrek from "./pages/blogs/KedarkanthaTrek";
+import ValleyOfFlowersAndHemkundTrek from "./pages/blogs/ValleyOfFlowersAndHemkundTrek";
 
 const App = () => {
   return (
@@ -19,6 +20,10 @@ const App = () => {
             <Route
               path="/kedarkantha-winter-trek"
               element={<KedarkanthaTrek />}
+            />
+            <Route
+              path="/valley-of-flowers-and-hemkund-sahib"
+              element={<ValleyOfFlowersAndHemkundTrek />}
             />
           </Routes>
           <Footer />

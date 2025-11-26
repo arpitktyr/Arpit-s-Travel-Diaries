@@ -103,18 +103,23 @@ const Home = () => {
               <div className="blog-card-single">
                 <div className="grids5-info">
                   <a href="/do-dham-uttrakhand">
-                    <img src="assets/images/jaipur.jpg" alt="" />
+                    <img src="assets/images/vof.webp" alt="" />
                   </a>
                   <div className="blog-info">
                     <h5>
-                      Feb, 2023 - <a href="blog-single">New</a>
+                      Feb, 2023 -{" "}
+                      <a href="/valley-of-flowers-and-hemkund-sahib">
+                        Monsoon Trek: Valley of Flowers
+                      </a>
                     </h5>
                     <h4>
-                      <a href="/do-dham-uttrakhand">Jaipur</a>
+                      <a href="/valley-of-flowers-and-hemkund-sahib">
+                        Valley of Flowers Trek
+                      </a>
                     </h4>
                     <p>
-                      3 days 4 night travel experiences, where we mainly visit
-                      all the famous places and forts.
+                      5 days 5 night travel experiences, where we complete
+                      valley of flowers and HemKund Sahib Trek.
                     </p>
                   </div>
                 </div>

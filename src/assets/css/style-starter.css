@@ -16487,6 +16487,18 @@ ul.social-icons3 li a:hover {
   z-index: 1;
 }
 
+.vof-banner {
+  background: url(../images/vof.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -ms-background-size: cover;
+  min-height: 300px;
+  position: relative;
+  z-index: 1;
+}
+
 .kedarnath-banner::before {
   content: "";
   position: absolute;

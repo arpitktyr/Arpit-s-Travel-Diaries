@@ -38,13 +38,13 @@ const Footer = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="#twitter" className="s-icontwitter">
-                          <span className="fa fa-twitter"></span>
+                        <a href="#instagram" className="s-iconinstagram">
+                          <span className="fa fa-instagram"></span>
                         </a>
                       </li>
                       <li>
-                        <a href="#instagram" className="s-iconinstagram">
-                          <span className="fa fa-instagram"></span>
+                        <a href="#twitter" className="s-icontwitter">
+                          <span className="fa fa-youtube"></span>
                         </a>
                       </li>
                     </ul>

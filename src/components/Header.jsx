@@ -8,7 +8,7 @@ const Header = () => {
 
   useEffect(() => {
     const toggleSwitch = document.querySelector(
-      '.theme-switch input[type="checkbox"]'
+      '.theme-switch input[type="checkbox"]',
     );
     const currentTheme = localStorage.getItem("theme");
     const updateLogo = (theme) => {
@@ -135,7 +135,7 @@ const Header = () => {
         if (scroll >= 80) {
           // console.log(currentTheme);
           setLogo(
-            localStorage.getItem("theme") === "dark" ? whiteLogo : blackLogo
+            localStorage.getItem("theme") === "dark" ? whiteLogo : blackLogo,
           );
           $("#site-header").addClass("nav-fixed");
         } else {
@@ -312,19 +312,14 @@ const Header = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#twitter" className="twitter">
-                    <span className="fa fa-twitter"></span>
-                  </a>
-                </li>
-                <li>
                   {" "}
                   <a href="#instagram" className="instagram">
                     <span className="fa fa-instagram"></span>
                   </a>
                 </li>
                 <li>
-                  <a href="#linkedin" className="linkedin">
-                    <span className="fa fa-linkedin"></span>
+                  <a href="#linkedin" className="youtube">
+                    <span className="fa fa-youtube"></span>
                   </a>
                 </li>
               </ul>

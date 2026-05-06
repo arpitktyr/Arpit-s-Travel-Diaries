@@ -18,7 +18,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
         <section className="w3l-breadcrumb">
           <div className="container">
             <h4 className="inner-text-title font-weight-bold text-white mb-2">
-              Valley of Flowers Trip - Best Decision of My Life! 🏔️
+              Valley of Flowers Trip - One of the best Trek! 🏔️
             </h4>
             <ul className="breadcrumbs-custom-path">
               <li>
@@ -39,7 +39,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
         <div className="container py-md-5 py-4">
           <div className="right-blog-single pl-lg-5 mb-md-0 mb-5">
             <p className="text-tag">
-              Valley of Flowers Trip - Best Decision of My Life! 🏔️
+              Valley of Flowers Trip - One of the best Trek! 🏔️
             </p>
             <img
               src="/assets/images/vof/ValleyOfFlowerBanner.jpg"
@@ -48,7 +48,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
             />
             <p className="sub-para">
               Bhai, if someone asks me "life mein ek trek karna ho toh kaunsa
-              karo?" — I'll say Valley of Flowers without even thinking. I just
+              karo?" - I'll say Valley of Flowers without even thinking. I just
               came back from this trip and trust me, it was INSANE. Let me tell
               you the whole story.
             </p>
@@ -56,9 +56,9 @@ const ValleyOfFlowersAndHemkundTrek = () => {
             <br />
             <p className="sub-para">
               So basically, Valley of Flowers was on my bucket list for like 2-3
-              years. Kept seeing reels, photos, stories — and every monsoon I
-              used to think "iss baar pakka jaana hai." But you know how it is —
-              kaam, paisa, time, sab ka jugaad nahi hota.
+              years. Kept seeing reels, photos, stories - and every monsoon I
+              used to think "iss baar pakka jaana hai." But you know how it is -
+              paisa, time, leaves, sab ka jugaad nahi hota.
             </p>
             <p className="sub-para">
               This year, finally sab set ho gaya. Found this group called{" "}
@@ -90,7 +90,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                   </td>
                   <td>
                     <a href="#chapter2">
-                      Day 1: Govindghat to Ghangaria — Baarish Mein Full Day
+                      Day 1: Govindghat to Ghangaria - Baarish Mein Full Day
                       Trek 🌧️
                     </a>
                   </td>
@@ -101,7 +101,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                   </td>
                   <td>
                     <a href="#chapter3">
-                      Day 2: Valley of Flowers — UNESCO World Heritage Site 🌸
+                      Day 2: Valley of Flowers - UNESCO World Heritage Site 🌸
                     </a>
                   </td>
                 </tr>
@@ -111,7 +111,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                   </td>
                   <td>
                     <a href="#chapter4">
-                      Day 3: Conquering Hemkund Sahib — 14,200 Feet of Grit and
+                      Day 3: Conquering Hemkund Sahib - 14,200 Feet of Grit and
                       Grace
                     </a>
                   </td>
@@ -124,6 +124,14 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                     <a href="#chapter5">
                       Day 4: Return Trek & Farewell to Ghangaria 🎉
                     </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    <p>6</p>
+                  </td>
+                  <td>
+                    <a href="#chapter6">Day 5: Pandukeshwar to Home</a>
                   </td>
                 </tr>
               </tbody>
@@ -148,21 +156,32 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 <strong>closed.</strong> Independence Day preparations chal rahe
                 the. Classic Delhi moment. 😅 Then we booked an auto and asked
                 him to take us to Raj Ghat. Bhai, Raj Ghat is actually a
-                beautiful place but I'll be honest — it looked more like a
-                couple's paradise. Har jagah couples baithe the, quality time
+                beautiful place but I'll be honest , it looked more like a
+                couple's paradise. 😅 Har jagah couples baithe the, quality time
                 spend kar rahe the. Single logo ka kya? Hum bas photo kheench ke
                 nikal liye 📸 After that we covered New Parliament, Old
                 Parliament, and India Gate. Standard Delhi tourist package
                 complete! But by this time, we were STARVING.
               </p>
+              <a
+                href="/assets/images/vof/Rajghat_delhi.jpg"
+                data-lightbox="example-set"
+                data-title="Raj Ghat, Delhi"
+              >
+                <img
+                  src="/assets/images/vof/Rajghat_delhi.jpg"
+                  alt="Raj Ghat, Delhi"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <h3 className="article-subheading">
                 {" "}
-                Chandni Chowk — Where Hunger Dies
+                Chandni Chowk - Where Hunger Dies
               </h3>
               <p className="sub-para">
                 Went straight to Chandni Chowk and had proper Chole Bhature.
                 Bhai, that hit different after all that walking. Then we
-                explored the market for a bit — typical chaotic Chandni Chowk
+                explored the market for a bit - typical chaotic Chandni Chowk
                 vibes.
               </p>
               <p className="sub-para">
@@ -174,7 +193,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 😭
               </p>
               <p className="sub-para">
-                We were like "itna dur aaye hain toh kuch toh dekh lete hain" —
+                We were like "itna dur aaye hain toh kuch toh dekh lete hain" -
                 so we visited Kalkaji Temple instead. Not a bad backup option
                 actually. After that, headed back to New Delhi Railway Station
                 where we'd kept our luggage.
@@ -182,7 +201,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <h3 className="article-subheading"> The Bus Drama Begins 🚌</h3>
               <p className="sub-para">
                 My friend Shubham joined us at ISBT Kashmere Gate. We had booked
-                Inter-City Bus sleeper tickets — around ₹1,000 per person. Bus
+                Inter-City Bus sleeper tickets - around ₹1,000 per person. Bus
                 was scheduled to leave around 11:30 PM for Rishikesh.
               </p>
               <p className="sub-para">All good so far, right? Wait for it.</p>
@@ -201,7 +220,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <strong>Nahi bhai. Bus khadi hi rahi.</strong>
               <p className="sub-para">
                 We waited 30 minutes. Then 45 minutes. Everyone's getting
-                restless. I finally went and asked the bus operator — "Bhai
+                restless. I finally went and asked the bus operator - "Bhai
                 problem kya hai?"
               </p>
               <p className="sub-para">
@@ -231,7 +250,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <p className="sub-para">
                 Those two people finally came after 1+ hour. And that girl was
-                standing at the bus door like a bouncer —{" "}
+                standing at the bus door like a bouncer -{" "}
                 <strong>literally not letting them board.</strong>
               </p>
               <p className="sub-para">
@@ -265,14 +284,14 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <p className="sub-para">
                 Quick introductions, and we started our journey towards
-                Pandukeshwar. First stop — petrol pump for fuel. And guess what?{" "}
+                Pandukeshwar. First stop - petrol pump for fuel. And guess what?{" "}
                 <strong>Those same two girls from the bus were there.</strong>{" "}
                 Story khatam nahi hui abhi bhi 😅
               </p>
               <p className="sub-para">
                 I took the front seat and the responsibility of playing good
                 songs. We connected the phone and started the drive. Traffic was
-                crazy because of Kanwar Yatra — motorcycles everywhere. People
+                crazy because of Kanwar Yatra - motorcycles everywhere. People
                 had collected holy water from Haridwar/Rishikesh and were going
                 back to do Jalabhishek (offering water to Shiva) in their local
                 temples.
@@ -280,7 +299,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">
                 We drove around <strong>220 km that day</strong> through the
                 mountains, music playing, everyone talking, bonding happening.
-                Around 7 PM, we finally reached <strong>Pandukeshwar</strong> —
+                Around 7 PM, we finally reached <strong>Pandukeshwar</strong> -
                 our stay for the night.
               </p>
               <h3 className="article-subheading">
@@ -290,12 +309,12 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">
                 The hotel had prepared proper <strong>Pahadi food</strong> for
                 dinner. Bhai, after that long journey, that simple mountain food
-                tasted like heaven. Local flavors, fresh ingredients — perfect.
+                tasted like heaven. Local flavors, fresh ingredients - perfect.
               </p>
               <p className="sub-para">
                 After dinner, Trip My Soul team did a briefing session. Everyone
                 introduced themselves properly, and then the organizers
-                explained the whole plan — where we're going, what to expect,
+                explained the whole plan - where we're going, what to expect,
                 how to behave on the trek, safety guidelines, etc. It felt real
                 now. Tomorrow, the actual adventure begins.
               </p>
@@ -308,10 +327,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <h2 className="text-head-text-9 py-1">
                 Day 1: Govindghat to Ghangaria: Baarish Mein Full Day Trek 🌧️
               </h2>
-
+              <a
+                href="/assets/images/vof/ghaghariya_trek.jpg"
+                data-lightbox="example-set"
+                data-title="Ghangaria Trek"
+              >
+                <img
+                  src="/assets/images/vof/ghaghariya_trek.jpg"
+                  alt="Ghangaria Trek"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 <strong>July 21, 2025</strong>
-                Woke up and looked outside —{" "}
+                Woke up and looked outside -{" "}
                 <strong>baarish ho rahi thi.</strong> Not heavily, but steady
                 rain. Perfect trekking weather (if you like getting wet 😅).
               </p>
@@ -321,7 +350,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 for 3 days.
               </p>
               <p className="sub-para">
-                Started around 8:00 AM from Pandukeshwar. Now here's the thing —
+                Started around 8:00 AM from Pandukeshwar. Now here's the thing -
                 Pandukeshwar is actually 2 km ahead of Govindghat (the official
                 trek starting point). So we came back to Govindghat by tempo
                 traveller.
@@ -330,21 +359,21 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 At Govindghat, we stopped to buy some chocolates and candies.
                 And bhai, <strong>double price</strong> pe bech rahe the! 😂 But
                 we were too lazy to buy earlier from Pandukeshwar, so hamara hi
-                fault tha. Lesson learned — hill stations pe sab mehnga hota
+                fault tha. Lesson learned - hill stations pe sab mehnga hota
                 hai.
               </p>
               <h3 className="article-subheading"> The Trek Begins </h3>
               <p className="sub-para">
                 We wore our raincoats and started. First, we crossed the river
                 on a small bridge. The sound of rushing water below, mountains
-                all around, light rain falling — already felt like we're in some
+                all around, light rain falling - already felt like we're in some
                 movie.
               </p>
               <p className="sub-para">
                 After crossing, we took a taxi to reach the actual trek starting
                 point for Ghangaria. Our guide <strong>Suraj Bhaiya</strong>{" "}
-                handled everything — man knew exactly what he was doing. The
-                taxi ride itself was an experience bhai — curvy roads, uphill
+                handled everything - man knew exactly what he was doing. The
+                taxi ride itself was an experience bhai - curvy roads, uphill
                 climbing, one side mountain, other side... well, best not to
                 look down 😅 Scary but thrilling!
               </p>
@@ -353,10 +382,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 {" "}
                 The 13 km Journey And then the real trek started.
               </h3>
-
+              <a
+                href="/assets/images/vof/ghaghariya_trek_stop.jpg"
+                data-lightbox="example-set"
+                data-title="Ghangaria Trek"
+              >
+                <img
+                  src="/assets/images/vof/ghaghariya_trek_stop.jpg"
+                  alt="Ghangaria Trek"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 Rain wasn't stopping. But honestly? It made everything more
-                beautiful. Waterfalls everywhere — and I mean EVERYWHERE. Every
+                beautiful. Waterfalls everywhere - and I mean EVERYWHERE. Every
                 few minutes there's another waterfall coming down from the
                 mountains. The whole valley was super green, clouds were
                 floating through, and we were just walking through all of this.
@@ -376,32 +415,55 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <h3 className="article-subheading"> Pink Poncho Gang 😂</h3>
 
               <p className="sub-para">
-                Okay so funny story — we saw this Punjabi group wearing pink
+                Okay so funny story - we saw this Punjabi group wearing pink
                 ponchos and they looked hilarious! I thought "yaar, photo toh
                 banta hai" and went and asked them for a picture. They were
-                super chill about it. Group photo with the pink poncho gang —
+                super chill about it. Group photo with the pink poncho gang -
                 checked! 📸
               </p>
+              <a
+                href="/assets/images/vof/arpit_ktyr.jpg"
+                data-lightbox="example-set"
+                data-title="Arpit"
+              >
+                <img
+                  src="/assets/images/vof/arpit_ktyr.jpg"
+                  alt="Arpit"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
 
               <h3 className="article-subheading"> Finally, Ghangaria!</h3>
 
               <p className="sub-para">
                 We reached Ghangaria around <strong>6 PM</strong>. By this time,
-                our clothes were FULLY wet. Not just wet — completely soaked.
+                our clothes were FULLY wet. Not just wet - completely soaked.
                 Some items in the bags also got wet despite rain covers. That's
                 what happens when you trek in rain for the whole day.
               </p>
               <p className="sub-para">
-                First thing we did — changed into dry clothes. Hotel room mein
-                heater tha, so we put all wet clothes to dry. Then had evening
-                snacks and tea.
+                First thing we did - changed into dry clothes. Hotel room mein
+                heater nhi tha, so we put all wet clothes outside of the room to
+                dry. Then had evening snacks and tea.
               </p>
+
               <h3 className="article-subheading">
                 Ghangaria Market Exploration
               </h3>
               <p className="sub-para">
                 Now time to explore the local market and eat something proper!
               </p>
+              <a
+                href="/assets/images/vof/forest.jpg"
+                data-lightbox="example-set"
+                data-title="Forest"
+              >
+                <img
+                  src="/assets/images/vof/forest.jpg"
+                  alt="Forest"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 We checked out different food stalls and finally ordered: Hot{" "}
                 <strong> Jalebi, </strong> 🧡
@@ -411,24 +473,25 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <p className="sub-para">
                 The whole experience was awesome. Small mountain town, simple
-                food, tired legs, happy faces — this is what treks are about.
+                food, tired legs, happy faces - this is what treks are about.
                 Came back to the hotel, set everything ready for tomorrow, and
-                went to sleep. Tomorrow is the BIG day —
+                went to sleep. Tomorrow is the BIG day -
                 <strong> Valley of Flowers National Park.</strong> The main
                 reason we're here. 🌸
               </p>
             </div>
             <div className="content" id="chapter3">
               <h2 className="text-head-text-9 py-1">
-                Day 2: Valley of Flowers — UNESCO World Heritage Site 🌸
+                Day 2: Valley of Flowers - UNESCO World Heritage Site 🌸
               </h2>
               <p className="sub-para">
-                <strong>July 22, 2025</strong> Woke up at 6:00 AM. Ready by 7:00
-                AM. Today was THE day.
+                <strong> July 22, 2025 </strong>
               </p>
               <p className="sub-para">
-                <strong>Suraj Bhaiya</strong> (our guide) made breakfast for us
-                — and bhai, throughout this trip, he never disappointed. Food
+                {" "}
+                Woke up at 6:00 AM. Ready by 7:00 AM. Today was THE main day.
+                <strong> Suraj Bhaiya</strong> (our guide) made breakfast for us
+                - and bhai, throughout this trip, he never disappointed. Food
                 was always on point! We packed our lunch because aaj toh Valley
                 of Flowers mein hi khana hai. 🥪
               </p>
@@ -441,12 +504,12 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 The Forgotten Trekking Pole Drama 😅
               </h3>
               <p className="sub-para">
-                I was doing a final check — kuch toh nahi bhool gaya? I wasn't
+                I was doing a final check - kuch toh nahi bhool gaya? I wasn't
                 carrying my backpack today. Sirf raincoat aur water bottle dala
                 tha Shubham ke bag mein.
               </p>
               <p className="sub-para">
-                We started walking, and after 200 meters I realized —{" "}
+                We started walking, and after 200 meters I realized -{" "}
                 <strong>Yaar, trekking pole hotel mein hi reh gaya!</strong> 😭
               </p>
               <p className="sub-para">
@@ -455,26 +518,37 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 well. He also said "You can do it without pole." Then I saw Dev
                 and Reegesh were also not carrying poles.
               </p>
+              <a
+                href="/assets/images/vof/vof_board.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers National Park Entrance"
+              >
+                <img
+                  src="/assets/images/vof/vof_board.jpg"
+                  alt="Valley of Flowers Entrance"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 So I thought, "Theek hai, bina pole ke hi chalte hain." But deep
-                down I knew — kal Hemkund Sahib ke liye definitely chahiye! 😂
+                down I knew - kal Hemkund Sahib ke liye definitely chahiye! 😂
               </p>
               <h3 className="article-subheading">
                 {" "}
                 Walking Through Ghangaria Town
               </h3>
               <p className="sub-para">
-                We were still in Ghangaria town — shops everywhere. Clothes,
+                We were still in Ghangaria town - shops everywhere. Clothes,
                 shoes, sweets, restaurants, hotels. Tourist market vibes.
               </p>
               <p className="sub-para">
                 At the end of town, we saw many horses. You can book them for
                 Hemkund Sahib (there's no horse service for Valley of Flowers).
-                Just after that was a beautiful bridge, and on the right side —
+                Just after that was a beautiful bridge, and on the right side -
                 a <strong>giant waterfall.</strong> Perfect start!
               </p>
               <p className="sub-para">
-                We kept walking and reached a fork — left for Valley of Flowers,
+                We kept walking and reached a fork - left for Valley of Flowers,
                 straight for Hemkund Sahib (that's tomorrow's plan). We took the
                 left.
               </p>{" "}
@@ -485,7 +559,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">
                 After a few meters, there was a checkpoint. Police officers
                 checked everyone's IDs and permits. You NEED a guide for this
-                trek — it's mandatory. Good thing Suraj Bhaiya had arranged
+                trek - it's mandatory. Good thing Suraj Bhaiya had arranged
                 everything properly.
               </p>
               <p className="sub-para">
@@ -493,12 +567,23 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 see some flowers peeking through!
               </p>
               <p className="sub-para">
-                And then we reached it —{" "}
+                And then we reached it -{" "}
                 <strong>the iconic Valley of Flowers entry gate.</strong> UNESCO
                 World Heritage Site board right there. Obviously we took a group
-                photo. I've seen so many photos of this gate — now I'm actually
+                photo. I've seen so many photos of this gate - now I'm actually
                 here! 📸
               </p>
+              <a
+                href="/assets/images/vof/vof_board_3.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Map Board"
+              >
+                <img
+                  src="/assets/images/vof/vof_board_3.jpg"
+                  alt="Valley of Flowers Map Board"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 I was also recording everything on my{" "}
                 <strong>DJI Action Camera.</strong>
@@ -518,7 +603,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <p className="sub-para">
                 We were chitchatting and enjoying. Maneesh took Saranya's phone
-                to click flower photos — she has the{" "}
+                to click flower photos - she has the{" "}
                 <strong>Pixel 9 Pro</strong>, so camera quality is insane!
               </p>
               <h3 className="article-subheading">
@@ -526,12 +611,23 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 History Lessons on the Trail 📚
               </h3>
               <p className="sub-para">
-                We saw one board about <strong>Frank S. Smythe</strong> — the
+                We saw one board about <strong>Frank S. Smythe</strong> - the
                 first person to discover this valley in <strong>1937</strong>.
                 He even wrote a book called "Valley of Flowers." The board
                 showed him sitting with 4 Sherpas (Tibetans). Respect for the OG
                 explorer!
               </p>
+              <a
+                href="/assets/images/vof/vof_board_2.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Gate"
+              >
+                <img
+                  src="/assets/images/vof/vof_board_2.jpg"
+                  alt="Valley of Flowers Gate"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 Then we read another story about{" "}
                 <strong>Lady Joan Margaret Legge</strong>, a zoologist who came
@@ -570,24 +666,35 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <h3 className="article-subheading">
                 {" "}
-                Weather Drama — Thand Lag Gayi! 🥶
+                Weather Drama - Thand Lag Gayi! 🥶
               </h3>
               <p className="sub-para">
                 I was wearing just a T-shirt at the start, but in the jungle
                 route, I started feeling cold. And guess what?{" "}
                 <strong>Shubham was carrying a hoodie for me!</strong> Lucky
-                nahi hoon main? 😂
+                hoon main.... 😂
               </p>
               <p className="sub-para">
-                But here's the funny part — Shubham was wearing a{" "}
+                But here's the funny part - Shubham was wearing a{" "}
                 <strong>rented poncho</strong>, and it was way too long for him.
                 The entire trip, he was managing that poncho like a lehenga!
                 😂😂
               </p>
               <p className="sub-para">
-                I wore the hoodie and felt much better. The experience was
-                amazing, and the day was sunny.
+                I wore the hoodie and felt much better. Till now experience was
+                so amazing, and the day was sunny.
               </p>
+              <a
+                href="/assets/images/vof/vof_water_crossing.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Water Crossing"
+              >
+                <img
+                  src="/assets/images/vof/vof_water_crossing.jpg"
+                  alt="Valley of Flowers Water Crossing"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 Around 11:00 AM, I removed the hoodie. Ab sirf T-shirt mein chal
                 raha hoon.
@@ -597,13 +704,13 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 Water Crossing & Getting Lost 😅
               </h3>
               <p className="sub-para">
-                Later we found a water crossing where we filled our bottles —
+                Later we found a water crossing where we filled our bottles -
                 <strong>pure mountain water</strong> coming straight from the
                 top. Like a small waterfall.
               </p>
               <p className="sub-para">
                 During all this, I fell behind. Everyone was ahead of me. So I
-                just kept walking on that curvy path — so narrow that only one
+                just kept walking on that curvy path - so narrow that only one
                 person could walk. If you need to cross someone, you have to ask
                 them to give side.
               </p>
@@ -612,15 +719,26 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 the valley from there. Beautiful!
               </p>
               <p className="sub-para">
-                We met that giant river again — still flowing with crazy current
+                We met that giant river again - still flowing with crazy current
                 and loud noise. Me and Saranya took lots of photos there.
               </p>
               <h3 className="article-subheading">
-                Entering Heaven — "Indra Ka Bageecha" 🌺
+                Entering Heaven - "Indra Ka Bageecha" 🌺
               </h3>
+              <a
+                href="/assets/images/vof/vof_view.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers View"
+              >
+                <img
+                  src="/assets/images/vof/vof_view.jpg"
+                  alt="Valley of Flowers View"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 After crossing the river, we saw one <strong>huge stone</strong>{" "}
-                — around 300 feet tall. And right after that...
+                - around 300 feet tall. And right after that...
               </p>
               <p className="sub-para">
                 We entered the <strong>main valley.</strong>
@@ -641,9 +759,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                   "You have 1.5 hours here. Find a spot and have lunch."
                 </strong>
               </p>
+              <a
+                href="/assets/images/vof/vof_view_2.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Valley View"
+              >
+                <img
+                  src="/assets/images/vof/vof_view_2.jpg"
+                  alt="Valley of Flowers Valley View"
+                  className="img-thumbnail float-image "
+                />
+              </a>
               <p className="sub-para">
                 We started walking, looking for the perfect spot. The valley had
-                some rock formations — 50 to 100 feet tall. We kept exploring
+                some rock formations - 50 to 100 feet tall. We kept exploring
                 and finally found our place.
               </p>
               <h3 className="article-subheading"> Lunch in UNESCO Site 🥙</h3>
@@ -663,7 +792,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <h3 className="article-subheading">
                 {" "}
-                "It's Not That Beautiful" — Seriously?! 😤
+                "It's Not That Beautiful" - Seriously?! 😤
               </h3>
               <p className="sub-para">
                 I heard some people saying, "It's not that beautiful." I don't
@@ -672,9 +801,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                   this was one of the most amazing places I've ever seen.
                 </strong>
               </p>
+              <a
+                href="/assets/images/vof/vof_mountain.jpg"
+                data-lightbox="example-set"
+                data-title="Mountain View of Valley of Flowers"
+              >
+                <img
+                  src="/assets/images/vof/vof_mountain.jpg"
+                  alt="Mountain View of Valley of Flowers"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 I could literally see clouds coming up from the valley. We
-                recorded a time-lapse of that — it looks SO good!
+                recorded a time-lapse of that - it looks SO good!
               </p>
               <p className="sub-para">
                 After lunch, all 6 of us explored different parts of the valley.
@@ -689,9 +829,22 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 with Suraj Bhaiya.
               </p>
               <p className="sub-para">
-                And then I thought —{" "}
+                And then I thought -{" "}
                 <strong>how can my trek be complete without pushups?!</strong>{" "}
                 💪
+              </p>
+              <h3 className="article-subheading">
+                {" "}
+                Valley of Flowers Gallery 🌼
+              </h3>
+              <p className="sub-para">
+                These are some of the best shots from the trek, arranged in an
+                alternating left/right format.
+              </p>
+              <p className="sub-para">
+                All these photos were captured during our Valley of Flowers
+                walk, showing the vibrant landscapes, the trail, the team, and
+                the unforgettable hiking moments.
               </p>
               <p className="sub-para">
                 I asked Saranya to record. I started doing pushups. She recorded
@@ -720,6 +873,17 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 <strong>Those girls who created the bus scene</strong>-{" "}
                 <strong>The couple for whom the bus was waiting</strong>
               </p>
+              <a
+                href="/assets/images/vof/vof_flowers.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Bloom"
+              >
+                <img
+                  src="/assets/images/vof/vof_flowers.jpg"
+                  alt="Valley of Flowers Bloom"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 Seems like sabhi log Valley of Flowers aa gaye hain! 😂 We just
                 ignored everyone. Introvert thing, you know. 😅
@@ -727,7 +891,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">
                 We played songs on medium volume and kept walking. A few people
                 asked, "Can we walk with you? We want to listen to songs too."
-                We said, "Sure, my pleasure!"
+                We said, "Sure, our pleasure!"
               </p>
               <h3 className="article-subheading"> The "Special" Point 😂🪨</h3>
               <p className="sub-para">
@@ -736,14 +900,14 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 <strong>that’s where nature calls get adventurous!</strong>
               </p>
               <p className="sub-para">
-                I’d told my friends about it while climbing up — they thought it
+                I’d told my friends about it while climbing up - they thought it
                 was a proper restroom. But when we reached, it was just a{" "}
                 <strong>big rock in the corner</strong>! 😂
               </p>
               <p className="sub-para">
                 One side rock, other side... deadly valley. If you fall, it'll
                 be hard to find your body. That type of deadly place. That’s
-                when we realized — in the mountains, even peeing can turn into
+                when we realized - in the mountains, even peeing can turn into
                 an adventure. 😆
               </p>
               <p className="sub-para">
@@ -758,9 +922,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 Around 4:00 PM, we reached the checkpoint. Officers checked our
                 names and tick-marked them. They actually track every visitor.
                 If anyone is left after 5 PM, they go into the valley to search
-                for them — because you can't survive in the valley at night.
+                for them - because you can't survive in the valley at night.
                 Safety first!
               </p>
+              <a
+                href="/assets/images/vof/our_group.jpg"
+                data-lightbox="example-set"
+                data-title="Our Group"
+              >
+                <img
+                  src="/assets/images/vof/our_group.jpg"
+                  alt="Our Group"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 We met one professor from California who was working in Bombay.
                 We talked and heard his experiences. He was wearing a
@@ -769,7 +944,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <h3 className="article-subheading">
                 {" "}
-                Back to Ghangaria — Evening Chill 🌆{" "}
+                Back to Ghangaria - Evening Chill 🌆{" "}
               </h3>
               <p className="sub-para">
                 Around 4:30 PM, we reached our hotel. Suraj Bhaiya had prepared
@@ -796,7 +971,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 PM. We ate and went to sleep.
               </p>
               <p className="sub-para">
-                Tomorrow is <strong>Hemkund Sahib</strong> — the toughest day of
+                Tomorrow is <strong>Hemkund Sahib</strong> - the toughest day of
                 the trek. 14,200 feet. And this time,{" "}
                 <strong>I'm definitely NOT forgetting my trekking pole!</strong>{" "}
                 😂 Good night! 💤
@@ -805,20 +980,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
 
             <div className="content" id="chapter4">
               <h2 className="text-head-text-9 py-1">
-                Day 3: Hemkund Sahib — 14,200 Feet Tak Ka Safar! 🏔️
+                Day 3: Hemkund Sahib - 14,200 Feet Tak Ka Safar! 🏔️
               </h2>
 
               <p className="sub-para">
                 <strong>July 23, 2025</strong>
               </p>
               <p className="sub-para">
-                Woke up around 6:00 AM. Today was going to be the TOUGHEST day —
+                Woke up around 6:00 AM. Today was going to be the TOUGHEST day -
                 <strong>Hemkund Sahib at 4,329 meters (14,200 feet).</strong>
               </p>
               <p className="sub-para">
                 Suraj Bhaiya called us for breakfast and packed our lunch. For
                 the last two days, we'd been eating <strong>veg biryani</strong>{" "}
-                for lunch during treks — easy to carry and filling. Smart
+                for lunch during treks - easy to carry and filling. Smart
                 choice!
               </p>
               <h3 className="article-subheading">
@@ -826,7 +1001,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 The Lock Drama Begins 😂🔐
               </h3>
               <p className="sub-para">
-                Around 7:40 AM, we were ready to start. I liked the timing — I'm
+                Around 7:40 AM, we were ready to start. I liked the timing - I'm
                 not a fan of people who sleep till late morning during trips.
                 Suraj Bhaiya had given clear instructions:{" "}
                 <strong>be ready by 7:30 AM</strong> because we have to trek 6
@@ -834,9 +1009,20 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 AM to 2:00 PM only. After 2-3 PM, weather gets cloudy/rainy and
                 the area starts closing.
               </p>
+              <a
+                href="/assets/images/vof/waterFall.jpg"
+                data-lightbox="example-set"
+                data-title="Waterfall on the Trail"
+              >
+                <img
+                  src="/assets/images/vof/waterFall.jpg"
+                  alt="Waterfall on the Trail"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 We were fully excited. Yesterday we had proper sleep because
-                there's NO NETWORK here — can't scroll reels, can't video chat
+                there's NO NETWORK here - can't scroll reels, can't video chat
                 with loved ones. Just pure rest.
               </p>
               <p className="sub-para">
@@ -848,7 +1034,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 She{" "}
                 <strong>locked the room door and the key was inside!</strong>{" "}
                 She thought one of us had the room key. But the bigger question
-                — why do they have locks you can lock WITHOUT keys??
+                - why do they have locks you can lock WITHOUT keys??
               </p>
               <p className="sub-para">
                 We asked the hotel management if they have extra keys. They said
@@ -862,13 +1048,24 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">Great. Just great. 😅</p>
               <p className="sub-para">
                 We started the trek anyway. And Saranya didn't even wear her
-                jacket — she was only carrying her raincoat. Suraj Bhaiya asked,
+                jacket - she was only carrying her raincoat. Suraj Bhaiya asked,
                 "You'll go like this?" She said "Yes." Now we can't do anything,
                 room is locked na!{" "}
               </p>
+              <a
+                href="/assets/images/vof/waterfallAndSnow.jpg"
+                data-lightbox="example-set"
+                data-title="Waterfall and Snow"
+              >
+                <img
+                  src="/assets/images/vof/waterfallAndSnow.jpg"
+                  alt="Waterfall and Snow"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <h3 className="article-subheading">
                 {" "}
-                The Trek Begins — Uphill Battle ⛰️
+                The Trek Begins - Uphill Battle ⛰️
               </h3>
               <p className="sub-para">
                 Both sides of the path had{" "}
@@ -882,12 +1079,12 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 real challenge!
               </p>
               <p className="sub-para">
-                After trekking for 1 hour, when we looked down —{" "}
+                After trekking for 1 hour, when we looked down -{" "}
                 <strong>wow.</strong> We could see Ghangaria town in the valley,
                 all the rivers, the entire trek path. Breathtaking view!
               </p>
               <p className="sub-para">
-                But here's the reality check —{" "}
+                But here's the reality check -{" "}
                 <strong>
                   "When you think you're close to the top, there's always one
                   more turn."
@@ -903,23 +1100,37 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 everyone today. Me, Shubham, Dev, Reegesh, and Suraj (Guide) had
                 lunch together. Rested for 15 minutes and then continued.
               </p>
+              <a
+                href="/assets/images/vof/pretty_baby.jpg"
+                data-lightbox="example-set"
+                data-title="Pretty Baby"
+              >
+                <img
+                  src="/assets/images/vof/pretty_baby.jpg"
+                  alt="Pretty Baby"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 The second half of the route was <strong>full of fog.</strong>{" "}
                 Sometimes it started raining as well. Visibility was getting
                 worse but the adventure was getting better!
               </p>
+
               <h3 className="article-subheading"> Summit! 14,200 Feet! 🙏</h3>
               <p className="sub-para">
-                Around <strong>1:00 PM</strong>, we reached the peak —{" "}
+                Around <strong>1:00 PM</strong>, we reached the peak -{" "}
                 <strong>Hemkund Sahib Gurudwara!</strong>
               </p>
+
               <p className="sub-para">
                 Rain started heavily right when we reached. This time me and
                 Shubham were behind, so everyone else had already arrived. We
                 found our group there.
               </p>
+
               <p className="sub-para">
-                First thing —{" "}
+                First thing -{" "}
                 <strong>
                   group photo with the Trip My Soul "Hemkund Sahib" banner!
                 </strong>{" "}
@@ -931,26 +1142,41 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 <strong>so cozy and beautiful inside.</strong> I'll add pictures
                 but trust me, no camera can do justice to that place.
               </p>
+
               <p className="sub-para">
                 Outside it was raining, but in front of the Gurudwara was{" "}
                 <strong>Hem Kund (the Holy Pond).</strong> For one minute when
                 the fog cleared, I saw the peaks with ice around that pond. I
                 can't describe it in words. Just... beautiful. 😍
               </p>
+
               <h3 className="article-subheading">
                 {" "}
                 Langar & Lakshman Temple 🍵
               </h3>
+              <a
+                href="/assets/images/vof/hemkundsaheb.jpg"
+                data-lightbox="example-set"
+                data-title="Hemkund Sahib"
+              >
+                <img
+                  src="/assets/images/vof/hemkundsaheb.jpg"
+                  alt="Hemkund Sahib"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 After darshan, we received <strong>Prasad</strong> from the
                 Gurudwara, ate it, and came back out.
               </p>
+
               <p className="sub-para">
-                Now it was time for <strong>Langar</strong> — the free community
+                Now it was time for <strong>Langar</strong> - the free community
                 meal that every Gurudwara serves to everyone, all the time. Some
                 of our group members had already eaten, but we all took{" "}
                 <strong>chai and daliya (porridge).</strong>
               </p>
+
               <p className="sub-para">
                 We were feeling cold, and that hot chai + daliya felt like
                 heaven. Perfect comfort food after that brutal climb!
@@ -960,6 +1186,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 <strong> Lakshman Temple</strong> nearby. Took lots of photos,
                 sat there for some time, enjoying the moment.
               </p>
+
               <p className="sub-para">
                 And then... it started raining again. 🌧️
               </p>
@@ -968,7 +1195,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 wasn't raining too heavily, so we could walk slowly with
                 raincoats on.
               </p>
-              <h3 className="article-subheading"> Time to Return — 2:30 PM</h3>
+              <h3 className="article-subheading"> Time to Return - 2:30 PM</h3>
               <p className="sub-para">
                 Around 2:30 PM, we finally decided to return. Gurudwara staff
                 were also asking people to leave as it closes at 2-3 PM. Plus,
@@ -980,15 +1207,26 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               <p className="sub-para">
                 While returning, we somehow{" "}
                 <strong>divided into three groups:</strong> 1.
-                <strong>Dev and Reegesh</strong> — ahead of everyone (fit guys!)
-                2. <strong>Me and Shubham</strong> — middle pack 3.{" "}
-                <strong>Saranya, Maneesh, and Suraj Bhaiya</strong> — bringing
+                <strong>Dev and Reegesh</strong> - ahead of everyone (fit guys!)
+                2. <strong>Me and Shubham</strong> - middle pack 3.{" "}
+                <strong>Saranya, Maneesh, and Suraj Bhaiya</strong> - bringing
                 up the rear
               </p>
+              <a
+                href="/assets/images/vof/raining_hemkund.jpg"
+                data-lightbox="example-set"
+                data-title="Raining Hemkund"
+              >
+                <img
+                  src="/assets/images/vof/raining_hemkund.jpg"
+                  alt="Raining Hemkund"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 We met another Punjabi group and started chatting about
                 different topics. Me and Shubham were recording lots of our
-                conversations on the <strong>DJI Action Camera</strong> — best
+                conversations on the <strong> Action Camera</strong> - best
                 thing about action cameras, you can use them in ANY weather
                 condition!
               </p>
@@ -1009,18 +1247,29 @@ const ValleyOfFlowersAndHemkundTrek = () => {
               </p>
               <h3 className="article-subheading">
                 {" "}
-                The Lock Drama — Part 2 🔐
+                The Lock Drama - Part 2 🔐
               </h3>
+              <a
+                href="/assets/images/vof/suraj.jpg"
+                data-lightbox="example-set"
+                data-title="Suraj Bhaiya"
+              >
+                <img
+                  src="/assets/images/vof/suraj.jpg"
+                  alt="Suraj Bhaiya"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
-                Around 5:30 PM, we reached the hotel. And then I remembered —
+                Around 5:30 PM, we reached the hotel. And then I remembered -
                 <strong>I can't open my room because of the key issue!</strong>{" "}
                 😭
               </p>
               <p className="sub-para">
                 We asked the owner again to check for extra keys. They tried a
-                couple of keys — no luck. By now, I was{" "}
+                couple of keys - no luck. By now, I was{" "}
                 <strong>completely soaked. </strong>
-                Jacket, raincoat, pants — everything was wet.
+                Jacket, raincoat, pants - everything was wet.
               </p>
               <p className="sub-para">
                 After all the struggle, they finally decided to{" "}
@@ -1046,6 +1295,17 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 Suraj Bhaiya had prepared evening snacks for us (this man never
                 disappoints!). We quickly changed clothes and ate.
               </p>
+              <a
+                href="/assets/images/vof/team_sp.jpg"
+                data-lightbox="example-set"
+                data-title="Team Trip My Soul"
+              >
+                <img
+                  src="/assets/images/vof/team_sp.jpg"
+                  alt="Team Trip My Soul"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 Then the hotel person took us to a shop to buy a new lock. They
                 charged only <strong>₹50</strong> because the hotel person was
@@ -1065,9 +1325,10 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 {" "}
                 Night Before the Journey Home{" "}
               </h3>
+
               <p className="sub-para">
                 Till now, it had been a wonderful experience. Tomorrow we have
-                to return to Pandukeshwar — going to be another tough day of
+                to return to Pandukeshwar - going to be another tough day of
                 trekking down.
               </p>
               <p className="sub-para">
@@ -1080,14 +1341,256 @@ const ValleyOfFlowersAndHemkundTrek = () => {
             </div>
 
             <div className="content" id="chapter5">
-              <h2 className="text-head-text-9 py-1"></h2>
+              <h2 className="text-head-text-9 py-1">
+                Day 4 – Return Trek & Farewell to Ghangaria 🎉
+              </h2>
+              <p className="sub-para">
+                <strong>July 24, 2025</strong>
+              </p>
+              <p className="sub-para">
+                We woke up around 7 AM and started packing our bags. The biggest
+                challenge that morning was dealing with wet clothes. Due to
+                constant moisture in the air and no direct sunlight, nothing had
+                dried properly overnight. We had no option but to buy some
+                polythene bags (the kind used for garbage) at an overpriced
+                rate, just to keep our wet clothes separate from the dry ones.
+              </p>
 
-              <p className="sub-para"></p>
+              <p className="sub-para">
+                Our shoes were still damp, but thankfully wearable. There was a
+                slight discomfort, but at that point, we had learned to adjust -
+                that’s what treks teach you.
+              </p>
+              <a
+                href="/assets/images/vof/forest_2.jpg"
+                data-lightbox="example-set"
+                data-title="Forest Trail"
+              >
+                <img
+                  src="/assets/images/vof/forest_2.jpg"
+                  alt="Forest Trail"
+                  className="img-thumbnail float-image"
+                />
+              </a>
+              <p className="sub-para">
+                Suraj Bhaiya prepared breakfast for us - a sweet dish (whose
+                name I still don’t remember), but it tasted really good and gave
+                us the energy we needed for the day.
+              </p>
+
+              <p className="sub-para">
+                After thanking the hotel staff, we began our return journey
+                towards Pandukeshwar.
+              </p>
+
+              <p className="sub-para">
+                Saranya, Maneesh, and our guide Suraj were walking ahead, while
+                me, Reegesh, Dev, and Shubham stayed behind - busy capturing
+                moments. Reegesh was documenting almost everything with his Sony
+                full-frame camera. Social media mode: ON 😄
+              </p>
+
+              <p className="sub-para">
+                The return trek felt much easier compared to the climb. Step by
+                step, we kept moving and by around 3–4 PM, we reached the taxi
+                stand where Maneesh and Saranya were already waiting.
+              </p>
+
+              <p className="sub-para">
+                From there, we took a taxi to Govindghat. On the bridge, we shot
+                one perfect reel - one of those moments you just know will turn
+                out amazing.
+              </p>
+
+              <p className="sub-para">And then, suddenly - heavy rain.</p>
+
+              <p className="sub-para">
+                Within seconds, it started pouring intensely. We all ran across
+                the road looking for shelter. There were shops on the other
+                side, and we rushed toward them. Just as we reached the road, a
+                traveller honked - it was Suraj Bhaiya waiting for us!
+              </p>
+
+              <p className="sub-para">
+                We quickly boarded the traveller - “Jyada nahi bheege!” 😄 The
+                rain was getting heavier by the minute.
+              </p>
+              <a
+                href="/assets/images/vof/ValleyOfFlower.jpg"
+                data-lightbox="example-set"
+                data-title="Valley of Flowers Landscape"
+              >
+                <img
+                  src="/assets/images/vof/ValleyOfFlower.jpg"
+                  alt="Valley of Flowers Landscape"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
+              <p className="sub-para">
+                Around 5 PM, we started towards Pandukeshwar and reached our
+                hotel within 30 minutes.
+              </p>
+
+              <p className="sub-para">
+                After freshening up and changing into dry clothes, we had some
+                snacks. We had skipped lunch that day - there was simply no
+                time, and during the trek, options were limited to Maggi, tea,
+                and coffee.
+              </p>
+
+              <p className="sub-para">
+                Later, we rested in our rooms, listening to the soothing sound
+                of the river - one of the most calming experiences of the trip.
+              </p>
+
+              <p className="sub-para">
+                After dinner, me, Shubham, and Reegesh went for a short walk.
+                The road was quite busy since Badrinath is nearby, so vehicles
+                were constantly passing. We had to walk carefully.
+              </p>
+
+              <p className="sub-para">
+                After the walk, we returned to our rooms and slept early -
+                because the next day was going to be even more packed.
+              </p>
             </div>
-            <div className="content" id="chapter5">
-              <h2 className="text-head-text-9 py-1"></h2>
+            <div className="content" id="chapter6">
+              <h2 className="text-head-text-9 py-1">
+                Day 5 – Pandukeshwar to Home
+              </h2>
 
-              <p className="sub-para"></p>
+              <p className="sub-para">
+                <strong>July 25, 2025</strong>
+              </p>
+
+              <p className="sub-para">
+                We woke up around 7 AM and got ready by 8 with all our bags
+                packed.
+              </p>
+
+              <p className="sub-para">
+                Suraj Bhaiya handed over our certificates - a small but
+                meaningful token of completing the trek. It was still raining
+                outside.
+              </p>
+
+              <p className="sub-para">
+                After breakfast, we began our return journey. Luckily, the rain
+                stopped just in time. Around 9:30 AM, we left Pandukeshwar for
+                Rishikesh.
+              </p>
+
+              <p className="sub-para">
+                After about an hour, the weather cleared completely - and the
+                views turned magical. Blue sky, white clouds, and lush green
+                mountains all around.
+              </p>
+
+              <p className="sub-para">
+                I was sitting in the front seat, playing songs. Everyone kept
+                requesting their favorites, and I kept adding them to the queue.
+                It turned into a mini road-trip concert - one of those simple
+                but unforgettable moments.
+              </p>
+
+              <p className="sub-para">
+                Around 1 PM, the driver stopped at a restaurant for lunch. I
+                don’t remember the name, but there was a Gurudwara right in
+                front of it.
+              </p>
+
+              <p className="sub-para">
+                The place felt familiar - and then we realized why. During our
+                Kedarnath–Badrinath trip earlier, we had stopped at the same
+                place for lunch while returning from Badrinath.
+              </p>
+
+              <p className="sub-para">
+                After lunch, we resumed our journey and reached Rishikesh around
+                4 PM.
+              </p>
+
+              <p className="sub-para">
+                There, we said goodbye to Dev and Reegesh, as they were heading
+                directly to Dehradun.
+              </p>
+              <a
+                href="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
+                data-lightbox="example-set"
+                data-title="Watching Clouds"
+              >
+                <img
+                  src="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
+                  alt="Watching Clouds"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
+              <p className="sub-para">
+                The rest of us booked a cab to Nepali Farm House and went to the
+                ZingBus waiting area. There was already a bus for Delhi, but
+                tickets weren’t available for that one.
+              </p>
+
+              <p className="sub-para">
+                Another bus arrived after 20 minutes. We booked 4 sleeper
+                tickets for just ₹1600 - much cheaper compared to the ₹4000 we
+                had paid earlier while coming from Delhi. We were surprised and
+                happy, and even joked that we could now spend the saved money on
+                dinner 😄
+              </p>
+
+              <p className="sub-para">
+                The bus dropped us in Delhi around 1:30 AM. From there, we
+                booked a cab to Noida and reached home around 2:30 AM.
+              </p>
+              <a
+                href="/assets/images/vof/arpit_ktyr_vof.jpg"
+                data-lightbox="example-set"
+                data-title="Arpit in VOF"
+              >
+                <img
+                  src="/assets/images/vof/arpit_ktyr_vof.jpg"
+                  alt="Arpit in VOF"
+                  className="img-thumbnail float-image"
+                />
+              </a>
+              <p className="sub-para">
+                It was a long and tiring day, but this journey will always
+                remain special.
+              </p>
+
+              <h2 className="text-head-text-9 py-1">
+                Overall Summary – Verdict
+              </h2>
+
+              <p className="sub-para">
+                The Valley of Flowers trek was never just about reaching a
+                destination — it was about everything in between.
+              </p>
+
+              <p className="sub-para">
+                The wet clothes, the unpredictable rain, the long walks, the
+                laughter with friends, the small struggles, and the peaceful
+                moments by the river — every experience added a unique layer to
+                the journey.
+              </p>
+
+              <p className="sub-para">
+                From breathtaking landscapes to simple roadside Maggi breaks,
+                from planned routes to unexpected rain runs — everything came
+                together to create something unforgettable.
+              </p>
+
+              <p className="sub-para">
+                This trip wasn’t perfect — and that’s exactly why it was
+                special.
+              </p>
+
+              <p className="sub-para">
+                In the end, we didn’t just return home with photos and videos —
+                we returned with stories, bonds, and moments that will stay with
+                us forever.
+              </p>
             </div>
           </div>
         </div>

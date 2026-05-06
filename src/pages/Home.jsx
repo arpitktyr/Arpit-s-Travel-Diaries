@@ -107,7 +107,7 @@ const Home = () => {
                   </a>
                   <div className="blog-info">
                     <h5>
-                      Feb, 2023 -{" "}
+                      July, 2025 -{" "}
                       <a href="/valley-of-flowers-and-hemkund-sahib">
                         Monsoon Trek: Valley of Flowers
                       </a>

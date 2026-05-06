@@ -174,26 +174,26 @@ const KedarkanthaTrek = () => {
                 </div>
                 <div className="col-md-4 py-2">
                   <a
-                    href="/assets/images/kedarkantha/camp.jpg"
+                    href="/assets/images/kedarkantha/our_group.jpg"
                     data-lightbox="kedarkantha-gallery"
-                    data-title="Campsite in the Snow"
+                    data-title="Our Trek Group"
                   >
                     <img
-                      src="/assets/images/kedarkantha/camp.jpg"
-                      alt="Campsite in the Snow"
+                      src="/assets/images/kedarkantha/our_group.jpg"
+                      alt="Our Trek Group"
                       className="img-thumbnail float-image"
                     />
                   </a>
                 </div>
                 <div className="col-md-4 py-2">
                   <a
-                    href="/assets/images/kedarkantha/dog_on_summit.jpg"
+                    href="/assets/images/kedarkantha/summit.jpg"
                     data-lightbox="kedarkantha-gallery"
-                    data-title="The Summit Dog"
+                    data-title="Summit View"
                   >
                     <img
-                      src="/assets/images/kedarkantha/dog_on_summit.jpg"
-                      alt="The Summit Dog"
+                      src="/assets/images/kedarkantha/summit.jpg"
+                      alt="Summit View"
                       className="img-thumbnail float-image"
                     />
                   </a>
@@ -226,26 +226,26 @@ const KedarkanthaTrek = () => {
                 </div>
                 <div className="col-md-4 py-2">
                   <a
-                    href="/assets/images/kedarkantha/our_group.jpg"
+                    href="/assets/images/kedarkantha/camp.jpg"
                     data-lightbox="kedarkantha-gallery"
-                    data-title="Our Trek Group"
+                    data-title="Campsite in the Snow"
                   >
                     <img
-                      src="/assets/images/kedarkantha/our_group.jpg"
-                      alt="Our Trek Group"
+                      src="/assets/images/kedarkantha/camp.jpg"
+                      alt="Campsite in the Snow"
                       className="img-thumbnail float-image"
                     />
                   </a>
                 </div>
                 <div className="col-md-4 py-2">
                   <a
-                    href="/assets/images/kedarkantha/summit.jpg"
+                    href="/assets/images/kedarkantha/dog_on_summit.jpg"
                     data-lightbox="kedarkantha-gallery"
-                    data-title="Summit View"
+                    data-title="The Summit Dog"
                   >
                     <img
-                      src="/assets/images/kedarkantha/summit.jpg"
-                      alt="Summit View"
+                      src="/assets/images/kedarkantha/dog_on_summit.jpg"
+                      alt="The Summit Dog"
                       className="img-thumbnail float-image"
                     />
                   </a>

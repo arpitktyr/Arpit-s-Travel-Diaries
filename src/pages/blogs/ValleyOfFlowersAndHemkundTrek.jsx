@@ -1467,7 +1467,17 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 We woke up around 7 AM and got ready by 8 with all our bags
                 packed.
               </p>
-
+              <a
+                href="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
+                data-lightbox="example-set"
+                data-title="Watching Clouds"
+              >
+                <img
+                  src="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
+                  alt="Watching Clouds"
+                  className="img-thumbnail float-image"
+                />
+              </a>
               <p className="sub-para">
                 Suraj Bhaiya handed over our certificates - a small but
                 meaningful token of completing the trek. It was still raining
@@ -1514,17 +1524,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 There, we said goodbye to Dev and Reegesh, as they were heading
                 directly to Dehradun.
               </p>
-              <a
-                href="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
-                data-lightbox="example-set"
-                data-title="Watching Clouds"
-              >
-                <img
-                  src="/assets/images/vof/arpi_ktyr_watching_clouds.jpg"
-                  alt="Watching Clouds"
-                  className="img-thumbnail float-image float-left"
-                />
-              </a>
+
               <p className="sub-para">
                 The rest of us booked a cab to Nepali Farm House and went to the
                 ZingBus waiting area. There was already a bus for Delhi, but
@@ -1543,17 +1543,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 The bus dropped us in Delhi around 1:30 AM. From there, we
                 booked a cab to Noida and reached home around 2:30 AM.
               </p>
-              <a
-                href="/assets/images/vof/arpit_ktyr_vof.jpg"
-                data-lightbox="example-set"
-                data-title="Arpit in VOF"
-              >
-                <img
-                  src="/assets/images/vof/arpit_ktyr_vof.jpg"
-                  alt="Arpit in VOF"
-                  className="img-thumbnail float-image"
-                />
-              </a>
+
               <p className="sub-para">
                 It was a long and tiring day, but this journey will always
                 remain special.
@@ -1567,7 +1557,17 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 The Valley of Flowers trek was never just about reaching a
                 destination — it was about everything in between.
               </p>
-
+              <a
+                href="/assets/images/vof/arpit_ktyr_vof.jpg"
+                data-lightbox="example-set"
+                data-title="Arpit in VOF"
+              >
+                <img
+                  src="/assets/images/vof/arpit_ktyr_vof.jpg"
+                  alt="Arpit in VOF"
+                  className="img-thumbnail float-image float-left"
+                />
+              </a>
               <p className="sub-para">
                 The wet clothes, the unpredictable rain, the long walks, the
                 laughter with friends, the small struggles, and the peaceful

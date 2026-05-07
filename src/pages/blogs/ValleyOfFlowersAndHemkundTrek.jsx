@@ -146,7 +146,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 shuru ho gaya!
               </p>{" "}
               <p className="sub-para">
-                Me, Sanaranya, and Maneesh had to reach Rishikesh by evening of
+                Me, Saranya, and Maneesh had to reach Rishikesh by evening of
                 20th July. But we had the whole day in Delhi, so we thought "why
                 waste it? Let's do some sightseeing!"
               </p>
@@ -212,7 +212,7 @@ const ValleyOfFlowersAndHemkundTrek = () => {
                 chalega.
               </p>
               <p className="sub-para">
-                Around 1 AM, bus stopped for dinner break. Sanaranya and Maneesh
+                Around 1 AM, bus stopped for dinner break. Saranya and Maneesh
                 were so tired they just wanted to sleep. Me and Shubham got
                 down, had dinner & came back, other people also came back after
                 dinner. Bus should start again na?

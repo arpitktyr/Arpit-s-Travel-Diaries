@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import About from "./pages/About";
+import AskArpit from "./pages/AskArpit";
 import DoDhamUttrakhand from "./pages/blogs/DoDhamUttrakhand";
 import KedarkanthaTrek from "./pages/blogs/KedarkanthaTrek";
 import ValleyOfFlowersAndHemkundTrek from "./pages/blogs/ValleyOfFlowersAndHemkundTrek";
@@ -16,6 +17,7 @@ const App = () => {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
+            <Route path="/ask-arpit" element={<AskArpit />} />
             <Route path="/do-dham-uttrakhand" element={<DoDhamUttrakhand />} />
             <Route
               path="/kedarkantha-winter-trek"
